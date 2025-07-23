@@ -8,9 +8,6 @@ This README provides documentation for two Arduino-based projects created on Tin
 
 🔗 [Tinkercad Project Link](https://www.tinkercad.com/things/cjVFzoQlCth/editel?returnTo=%2Fdashboard)
 
-### 📸 Project Image  
-![TMP36 Sensor Project](Screenshot_2025-07-23_173724.png)
-
 ### 📝 Description:
 This project uses a TMP36 analog temperature sensor to read ambient temperature. The reading is then converted to voltage and displayed on a 16x2 LCD screen using the `LiquidCrystal` library.
 
@@ -32,8 +29,7 @@ This project uses a TMP36 analog temperature sensor to read ambient temperature.
 
 🔗 [Tinkercad Project Link](https://www.tinkercad.com/things/2cpHcDg5uLf/editel?returnTo=%2Fdashboard)
 
-### 📸 Project Image  
-![PIR Motion Sensor Project](Screenshot_2025-07-23_181341.png)
+
 
 ### 📝 Description:
 This project utilizes a PIR motion sensor to detect movement. When motion is detected, a buzzer sounds and an LED indicator lights up. It's useful for simple intrusion or presence detection.
